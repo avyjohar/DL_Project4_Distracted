@@ -18,7 +18,7 @@ pip install tensorflow numpy pandas matplotlib opencv-python scikit-learn
 
 ## Dataset
 
-Download the dataset from the [Kaggle competition page](https://www.kaggle.com/c/state-farm-distracted-driver-detection) and extract it. Update the `dataset_path` in the code to point to the dataset's location on your system.
+Download the dataset and extract it. Update the `dataset_path` in the code to point to the dataset's location on your system.
 
 ---
 
